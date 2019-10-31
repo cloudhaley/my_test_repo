@@ -9,7 +9,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #TEST FILE FUN TIMES
 
-GitHub jokes: "Hey girl, are you a repo? Because I wanna commit to you. ;)"
+GitHub jokes: 
+
+"Hey girl, are you a repo? Because I wanna commit to you. ;)"
+
+Spiderman Meme: "Who is that one collaborator?" It's you, which me???
+
 
 $$
 potato = pie + 2
